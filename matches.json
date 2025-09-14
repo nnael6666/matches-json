@@ -1,23 +1,5 @@
 [
   {
-    "title": "Southampton vs Portsmouth",
-    "url": "https://mainser.diggewerds.site/xzqwer15/index.m3u8?token=33167a976b0dbff0c5d634f5092600b8",
-    "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
-    "group": "Premier League",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Android)"
-    }
-  },
-  {
-    "title": "Celta Vigo vs Girona",
-    "url": "https://mainser.diggewerds.site/xzqwer4/tracks-v1a1/mono.m3u8?token=60052d23d9f71ccb41d81364e3e3f027",
-    "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
-    "group": "Premier League",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Android)"
-    }
-  },
-  {
     "title": "Persija vs Persib",
     "url": "https://example.com/stream/persija-persib.m3u8",
     "thumbnail": "https://iili.io/persija-persib.jpg",
@@ -51,4 +33,3 @@
     "group": "International"
   }
 ]
-
