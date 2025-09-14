@@ -12,10 +12,19 @@
     "group": "Liga 1"
   },
   {
-    "title": "Manchester City vs Liverpool",
-    "url": "https://bo.yalla1shoot.xyz/bein1/index.m3u8?token=7f22a309d17b9d3d5f6920a8408f473c5872fdde",
+    "title": "Southampton vs Portsmouth",
+    "url": "https://mainser.diggewerds.site/xzqwer15/tracks-v1a1/mono.m3u8?token=33167a976b0dbff0c5d634f5092600b8",
     "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
-    "group": "Premier League",
+    "group": "SkySport Championship",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Android)"
+    }
+  },
+  {
+    "title": "Celta Vigo vs Girona",
+    "url": "https://mainser.diggewerds.site/xzqwer4/tracks-v1a1/mono.m3u8?token=60052d23d9f71ccb41d81364e3e3f027",
+    "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
+    "group": "LaLiga",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Android)"
     }
