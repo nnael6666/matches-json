@@ -17,4 +17,38 @@
       "User-Agent": "Mozilla/5.0 (Android)"
     }
   },
+  {
+    "title": "Persija vs Persib",
+    "url": "https://example.com/stream/persija-persib.m3u8",
+    "thumbnail": "https://iili.io/persija-persib.jpg",
+    "group": "Liga 1"
+  },
+  {
+    "title": "Arema vs Bali United",
+    "url": "https://example.com/stream/arema-bali.m3u8",
+    "thumbnail": "https://iili.io/arema-bali.jpg",
+    "group": "Liga 1"
+  },
+  {
+    "title": "Manchester City vs Liverpool",
+    "url": "https://bo.yalla1shoot.xyz/bein1/index.m3u8?token=7f22a309d17b9d3d5f6920a8408f473c5872fdde",
+    "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
+    "group": "Premier League",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Android)"
+    }
+  },
+  {
+    "title": "Real Madrid vs Barcelona",
+    "url": "https://example.com/stream/elclasico.m3u8",
+    "thumbnail": "https://iili.io/el-clasico.jpg",
+    "group": "La Liga"
+  },
+  {
+    "title": "Indonesia vs Malaysia",
+    "url": "https://example.com/stream/indo-malaysia.m3u8?token=abc123",
+    "thumbnail": "https://iili.io/indo-malaysia.jpg",
+    "group": "International"
+  }
 ]
+
