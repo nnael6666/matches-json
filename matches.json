@@ -1,19 +1,7 @@
 [
   {
-    "title": "AS Roma vs Torino",
-    "url": "https://ac.yallaliveshoot.info/ad13/tracks-v1a1/mono.ts.m3u8?token=dfcfde4117ba1a0ee18f43f96711eb3910526a51-b3f748cdbd503cbc-1757849454-1757849154&v=1757849154",
-    "thumbnail": "https://iili.io/persija-persib.jpg",
-    "group": "Liga 1"
-  },
-  {
-    "title": "Arema vs Bali United",
-    "url": "https://example.com/stream/arema-bali.m3u8",
-    "thumbnail": "https://iili.io/arema-bali.jpg",
-    "group": "Liga 1"
-  },
-  {
-    "title": "TEST",
-    "url": "https://mainser.diggewerds.site/xzqwer7/tracks-v1a1/mono.m3u8?token=88382a421bf0fd0a0fb9051e918defb4",
+    "title": "southampton vs portsmouth",
+    "url": "https://mainser.diggewerds.site/xzqwer15/index.m3u8?token=33167a976b0dbff0c5d634f5092600b8",
     "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
     "group": "Premier League",
     "headers": {
@@ -21,15 +9,12 @@
     }
   },
   {
-    "title": "Real Madrid vs Barcelona",
-    "url": "https://example.com/stream/elclasico.m3u8",
-    "thumbnail": "https://iili.io/el-clasico.jpg",
-    "group": "La Liga"
+    "title": "Celta Vigo vs Girona",
+    "url": "https://mainser.diggewerds.site/xzqwer4/tracks-v1a1/mono.m3u8?token=60052d23d9f71ccb41d81364e3e3f027",
+    "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
+    "group": "Premier League",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Android)"
+    }
   },
-  {
-    "title": "Indonesia vs Malaysia",
-    "url": "https://example.com/stream/indo-malaysia.m3u8?token=abc123",
-    "thumbnail": "https://iili.io/indo-malaysia.jpg",
-    "group": "International"
-  }  
 ]
