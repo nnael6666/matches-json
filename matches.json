@@ -16,5 +16,14 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Android)"
     }
-  }
+  },
+  {
+    "title": "Burnley vs Liverpool",
+    "url": "https://mainser.diggewerds.site/xzqwer5/index.m3u8?token=8c7f44a9b211721a7b556989c4bae40e",
+    "thumbnail": "https://iili.io/man-city-vs-liv.jpg",
+    "group": "Premier League",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Android)"
+    }
+  },
 ]
