@@ -1,1 +1,17 @@
+[
+  {
+    "title": "Persib vs Dede Ija",
+    "url": "https://bo.yalla1shoot.xyz/bein1/index.m3u8?token=7f22a309d17b9d3d5f6920a8408f473c5872fdde",
+    "group": "BRI Super League",
+    "homeTeam": "Persib",
+    "awayTeam": "Dede Ija",
+    "score": "6 - 1",
+    "homeLogo": "https://iili.io/mancity-logo.png",
+    "awayLogo": "https://iili.io/liverpool-logo.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Android)",
+      "Referer": "https://yalla1shoot.xyz/"
+    }
+  },
 
+]
