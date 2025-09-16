@@ -1,16 +1,16 @@
 [
   {
-    "title": "Persib vs Dede Ija",
-    "url": "https://bo.yalla1shoot.xyz/bein1/index.m3u8?token=7f22a309d17b9d3d5f6920a8408f473c5872fdde",
-    "group": "BRI Super League",
-    "homeTeam": "Persib",
-    "awayTeam": "Dede Ija",
-    "score": "6 - 1",
-    "homeLogo": "https://iili.io/mancity-logo.png",
-    "awayLogo": "https://iili.io/liverpool-logo.png",
+    "title": "Athletic Bilbao vs Arsenal",
+    "url": "https://example.com",
+    "group": "UEFA Champions League",
+    "homeTeam": "Athletic Bilbao",
+    "awayTeam": "Arsenal",
+    "score": "0 - 0",
+    "homeLogo": "https://iili.io/KArLtvp.png",
+    "awayLogo": "https://iili.io/KArQjAN.png",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Android)",
-      "Referer": "https://yalla1shoot.xyz/"
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://example.com/"
     }
-  },
+  }
 ]
