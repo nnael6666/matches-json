@@ -6,10 +6,10 @@
     "homeTeam": "Athletic Bilbao",
     "awayTeam": "Arsenal",
     "score": "0 - 0",
-    "time": "22:00 WIB",
-    "isLive": true,
-    "homeLogo": "https://iili.io/KAQpSu1.png",
-    "awayLogo": "https://iili.io/KAtHcgf.png",
+    "time": "23:45 WIB",
+    "isLive": false,
+    "homeLogo": "https://iili.io/KAtD46v.png",
+    "awayLogo": "https://iili.io/KAtmp24.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://example.com/"
