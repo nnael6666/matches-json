@@ -5,9 +5,9 @@
     "group": "UEFA Champions League",
     "homeTeam": "Athletic Bilbao",
     "awayTeam": "Arsenal",
-    "score": "0 - 0",
+    "score": "2 - 0",
     "time": "23:45 WIB",
-    "isLive": false,
+    "isLive": true,
     "homeLogo": "https://iili.io/KAtD46v.png",
     "awayLogo": "https://iili.io/KAtmp24.png",
     "headers": {
