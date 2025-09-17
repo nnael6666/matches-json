@@ -1,8 +1,8 @@
 [
   {
     "title": "Bayern vs Chelsea",
-    "url": "https://example.com",
-    "group": "UEFA Champions League",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8",
+    "group": "Nyoba",
     "homeTeam": "Bayern Munich",
     "awayTeam": "Chelsea",
     "score": "0 - 0",
@@ -13,7 +13,7 @@
     "awayLogo": "https://iili.io/KRO3TJt.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://example.com/"}
+      "Referer": "https://video.detik.com/"}
   },
   {
     "title": "PSG vs Atalanta",
