@@ -18,10 +18,9 @@
     }
   },
   {
-    "title": "Soccer Channel V+",
+    "title": "NYOBA",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
     "thumbnail": "https://iili.io/KROAIOx.png",
-    "drmLicenseUrl": "https://license.server.url",
     "drmKey": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
     "headers": {
       "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
