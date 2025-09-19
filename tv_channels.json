@@ -2,29 +2,6 @@
   {
     "title": "TransTV",
     "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8",
-    "thumbnail": "https://iili.io/KROAIOx.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://video.detik.com/"
-    }
-  },
-  {
-    "title": "RCTI OKE",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
-    "thumbnail": "https://iili.io/KROAIOx.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://www.rctiplus.com/"
-    }
-  },
-  {
-    "title": "NYOBA",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
-    "thumbnail": "https://iili.io/KROAIOx.png",
-    "drmKey": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
-    "headers": {
-      "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
-      "Referer": "https://www.visionplus.id/"
-  }
+    "thumbnail": "https://iili.io/KROAIOx.png"
   }
 ]
