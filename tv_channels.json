@@ -10,12 +10,13 @@
     "thumbnail": "https://iili.io/KROAIOx.png"
   },
   {
-    "title": "Indosiar",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
-    "thumbnail": "https://iili.io/KROAIOx.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-    }
+   "title": "Indosiar Perbaikan",
+   "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
+   "thumbnail": "https://iili.io/KROAIOx.png",
+   "drmKey": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
+   "headers": {
+     "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+  }
   },
   {
     "title": "SCTV",
@@ -23,7 +24,7 @@
     "thumbnail": "https://iili.io/KROAIOx.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-    }
+  }
   },
   {
     "title": "RCTI",
@@ -32,7 +33,7 @@
     "headers": {
       "User-Agent": "android-R+",
       "Referer": "https://www.rctiplus.com/"
-    }
+  }
   },
   {
     "title": "MNCTV",
@@ -41,7 +42,7 @@
     "headers": {
       "User-Agent": "android-R+",
       "Referer": "https://www.rctiplus.com/"
-    }
+  }
   },
   {
     "title": "GTV",
@@ -50,7 +51,7 @@
     "headers": {
       "User-Agent": "android-R+",
       "Referer": "https://www.rctiplus.com/"
-    }
+  }
   },
   {
     "title": "iNews",
@@ -59,7 +60,7 @@
     "headers": {
       "User-Agent": "android-R+",
       "Referer": "https://www.rctiplus.com/"
-    }
+  }
   },
   {
     "title": "TV One",
@@ -67,7 +68,7 @@
     "thumbnail": "https://iili.io/KROAIOx.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-    }
+  }
   },
   {
     "title": "Metro TV",
@@ -76,7 +77,7 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
       "Referer": "http://www.dens.tv/"
-    }
+  }
   },
   {
     "title": "Kompas TV",
@@ -85,7 +86,7 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
       "Referer": "http://www.dens.tv/"
-    }
+  }
   },
   {
     "title": "CNN Indonesia",
@@ -103,6 +104,16 @@
     "thumbnail": "https://iili.io/KROAIOx.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"
-    }
+  }
+  },
+  {
+    "title": "Soccer Channel V+",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
+    "thumbnail": "https://www.visionplus.id/images/repository/655/655-LOGO-m.png",
+    "drmKey": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
+      "Referer": "https://www.visionplus.id/"
+  }
   }
 ]
