@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "RCTI",
+    "title": "RCTI OKE",
     "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
     "thumbnail": "https://iili.io/KROAIOx.png",
     "headers": {
@@ -27,5 +27,5 @@
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://www.visionplus.id/"
   }
-}
+  }
 ]
