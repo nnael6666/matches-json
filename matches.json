@@ -1,4 +1,8 @@
-[
+{
+  "popupImage": "https://iili.io/K7pDQup.jpg",
+  "popupUrl": "https://contoh-link-stream.com/match123",
+
+  "matches": [
   {
     "title": "LIV vs EVE",
     "url": "https://example.com",
@@ -170,3 +174,4 @@
       "Referer": "https://yalla-shoot-tv.org/"}
   }
 ]
+}
