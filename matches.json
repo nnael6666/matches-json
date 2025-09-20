@@ -1,24 +1,23 @@
 {
-  "popupImage": "https://iili.io/KYBDlS4.jpg",
-  "popupUrl": "https://example.com",
+  "popupImage": "https://iili.io/KYoT5TQ.jpg",
+  "popupUrl": "https://live-ak.vimeocdn.com/exp=1758389855~acl=%2Fbe4d9664-7277-4516-9ae5-c20ec218c027_fmp4%2F%2A~hmac=ac4c71ded37216db13e095ad98b28843fb62bcfad136c81a83206fabfc008c29/be4d9664-7277-4516-9ae5-c20ec218c027_fmp4/aac/256000/chunklist.m3u8?_HLS_skip=YES",
 
   "matches": [
     {
     "title": "MU vs CHE",
-    "url": "https://example.com",
+    "url": "https://live-ak.vimeocdn.com/exp=1758389855~acl=%2Fbe4d9664-7277-4516-9ae5-c20ec218c027_fmp4%2F%2A~hmac=ac4c71ded37216db13e095ad98b28843fb62bcfad136c81a83206fabfc008c29/be4d9664-7277-4516-9ae5-c20ec218c027_fmp4/aac/256000/chunklist.m3u8?_HLS_skip=YES",
     "group": "https://iili.io/K7ZL54S.png",
     "homeTeam": "Man United",
     "awayTeam": "Chelsea",
     "score": "0 - 0",
-    "status": "UPCOMING",
     "time": "23:30 WIB",
     "dateTime": "2025-09-20T23:30:00+07:00",
-    "isLive": false,
+    "isLive": true,
     "homeLogo": "https://iili.io/KYffcNf.png",
     "awayLogo": "https://iili.io/KYfqZmb.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
+      "Referer": "https://yalla-shoot.tv/"}
   },
     {
     "title": "ARS v MC",
