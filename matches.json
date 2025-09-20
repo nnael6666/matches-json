@@ -1,93 +1,8 @@
 {
   "popupImage": "https://iili.io/K7pDQup.jpg",
-  "popupUrl": "https://contoh-link-stream.com/match123",
+  "popupUrl": "https://example.com",
 
   "matches": [
-  {
-    "title": "LIV vs EVE",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Liverpool",
-    "awayTeam": "Everton",
-    "score": "4 - 0",
-    "status": "UPCOMING",
-    "time": "18:30 WIB",
-    "dateTime": "2025-09-20T18:30:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/K7LPSjV.png",
-    "awayLogo": "https://iili.io/K7D7MHx.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "BUR vs NFS",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Burnley",
-    "awayTeam": "Nott Forest",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "21:00 WIB",
-    "dateTime": "2025-09-20T21:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/K7LaaBs.png",
-    "awayLogo": "https://iili.io/K7LaQ3v.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "BHA vs TOT",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Brighton",
-    "awayTeam": "Tottenham",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "21:00 WIB",
-    "dateTime": "2025-09-20T21:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/K7LcAcx.png",
-    "awayLogo": "https://iili.io/K7LcMKJ.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "WHU vs CP",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "West Ham",
-    "awayTeam": "Crystal Palace",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "21:00 WIB",
-    "dateTime": "2025-09-20T21:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/K7LlHOB.png",
-    "awayLogo": "https://iili.io/K7LlzbI.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "WOL vs LED",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Wolves",
-    "awayTeam": "Leeds United",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "21:00 WIB",
-    "dateTime": "2025-09-20T21:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/K7LlcJ4.png",
-    "awayLogo": "https://iili.io/K7LlkmB.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
     {
     "title": "MU vs CHE",
     "url": "https://example.com",
@@ -101,57 +16,6 @@
     "isLive": false,
     "homeLogo": "https://iili.io/K7LGRTl.png",
     "awayLogo": "https://iili.io/K7LGl4e.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "FUL vs BRN",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Fulham",
-    "awayTeam": "Brenford",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "02:00 WIB",
-    "dateTime": "2025-09-21T02:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/KROzrcG.png",
-    "awayLogo": "https://iili.io/KROIals.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "BOU vs NEW",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Bournemouth",
-    "awayTeam": "Newcastle",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "20:00 WIB",
-    "dateTime": "2025-09-21T20:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/KROzrcG.png",
-    "awayLogo": "https://iili.io/KROIals.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://yalla-shoot-tv.org/"}
-  },
-    {
-    "title": "SUN vs ASV",
-    "url": "https://example.com",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Sunderland",
-    "awayTeam": "Aston Villa",
-    "score": "0 - 0",
-    "status": "UPCOMING",
-    "time": "20:00 WIB",
-    "dateTime": "2025-09-21T20:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/KROzrcG.png",
-    "awayLogo": "https://iili.io/KROIals.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://yalla-shoot-tv.org/"}
