@@ -1,21 +1,5 @@
 [
   {
-    "title": "MU vs CHE",
-    "url": "https://example.com",
-    "group": "Premier League",
-    "homeTeam": "Man United",
-    "awayTeam": "Chelsea",
-    "score": "0 - 0",
-    "time": "00:30 WIB",
-    "dateTime": "2025-09-20T02:00:00+07:00",
-    "isLive": false,
-    "homeLogo": "https://iili.io/KROzrcG.png",
-    "awayLogo": "https://iili.io/KROIals.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://example.com/"}
-  },
-  {
     "title": "LIV vs EVE",
     "url": "https://example.com",
     "group": "Premier League",
@@ -51,7 +35,7 @@
     "title": "BHA vs TOT",
     "url": "https://example.com",
     "group": "Premier League",
-    "homeTeam": "Brighton HA",
+    "homeTeam": "Brighton",
     "awayTeam": "Tottenham",
     "score": "0 - 0",
     "time": "22:00 WIB",
@@ -88,6 +72,22 @@
     "score": "0 - 0",
     "time": "22:00 WIB",
     "dateTime": "2025-09-20T22:00:00+07:00",
+    "isLive": false,
+    "homeLogo": "https://iili.io/KROzrcG.png",
+    "awayLogo": "https://iili.io/KROIals.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://example.com/"}
+  },
+    {
+    "title": "MU vs CHE",
+    "url": "https://example.com",
+    "group": "Premier League",
+    "homeTeam": "Man United",
+    "awayTeam": "Chelsea",
+    "score": "0 - 0",
+    "time": "23:30 WIB",
+    "dateTime": "2025-09-20T23:30:00+07:00",
     "isLive": false,
     "homeLogo": "https://iili.io/KROzrcG.png",
     "awayLogo": "https://iili.io/KROIals.png",
