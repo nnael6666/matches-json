@@ -5,11 +5,11 @@
   "matches": [
     {
     "title": "ARS v MC",
-    "url": "https://a4.kora-plus.pro/watch/xplBYMqjPhG-_Q4af0_KfQ/1758472237/1758472491/1/main_1.m3u8",
+    "url": "https://zonasport.cyou/live/foot1/chunks.m3u8",
     "group": "https://iili.io/K7ZL54S.png",
     "homeTeam": "Arsenal",
     "awayTeam": "Man City",
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "22:30 WIB",
     "dateTime": "2025-09-21T22:30:00+07:00",
     "isLive": true,
@@ -17,7 +17,7 @@
     "awayLogo": "https://iili.io/KYfCRcP.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://a4.kora-plus.pro/"}
+      "Referer": "https://zonasport.cyou"}
   }
 ]
 }
