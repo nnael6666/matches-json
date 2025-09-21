@@ -116,15 +116,15 @@
       "Referer": "https://www.visionplus.id/"
   }
   },
-  {
-  "title": "Indosiar wleowleo",
+{
+  "title": "Indosiar TOP",
   "url": "https://fta-idn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
   "thumbnail": "https://iptvsystem.my.id/img/indosiar.png",
   "headers": {
     "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
-    "Referer": ""
+    "Referer": "https://fta-idn.streamo.cfd"
   },
   "drmLicenseUrl": "clearkey://",
-  "drmKey": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6"
- }
+  "drmKey": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"iBr6Z+pXtBwYIndF1nVZ5g\",\"kid\":\"Xq3czYk6R6yLZfmzGWOjrg\"}],\"type\":\"temporary\"}"
+}
 ]
