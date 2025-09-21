@@ -115,5 +115,16 @@
       "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
       "Referer": "https://www.visionplus.id/"
   }
-  }
+  },
+  {
+  "title": "Indosiar wleowleo",
+  "url": "https://fta-idn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
+  "thumbnail": "https://iptvsystem.my.id/img/indosiar.png",
+  "headers": {
+    "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+    "Referer": ""
+  },
+  "drmLicenseUrl": "clearkey://",
+  "drmKey": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6"
+ }
 ]
