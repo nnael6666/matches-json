@@ -9,7 +9,7 @@
     "group": "https://iili.io/K7ZL54S.png",
     "homeTeam": "Arsenal",
     "awayTeam": "Man City",
-    "score": "1 - 0",
+    "score": "0 - 0",
     "status": "UPCOMING",
     "time": "22:30 WIB",
     "dateTime": "2025-09-21T22:30:00+07:00",
@@ -22,9 +22,9 @@
   },
     {
     "title": "ARS v MC",
-    "url": "https://example.com",
+    "url": "https://cdn3.yallaboom.online/live/b111/playlist.m3u8",
     "group": "https://iili.io/K7ZL54S.png",
-    "isLive": false,
+    "isLive": true,
     "homeLogo": "https://iili.io/KYfBOGV.png",
     "awayLogo": "https://iili.io/KYfCRcP.png",
     "headers": {
