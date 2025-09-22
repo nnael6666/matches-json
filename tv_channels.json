@@ -1,12 +1,11 @@
 [
   {
-    "title": "SCTV COK",
+    "title": "SCTV",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
     "thumbnail": "https://iili.io/KROAIOx.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-      "referer":
-      "https://wwww.dens.tv"
+      "Referer": "https://www.dens.tv"
     }
   },
   {
@@ -38,13 +37,13 @@
     }
   },
   {
-  "title": "GTV (V+)",
-  "url": "https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
-  "thumbnail": "https://hometv.pw/logo/lokal/gtv.png",
-  "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-    "Referer": "https://visionplus.id"
-  },
-  "drmLicenseUrl": "https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz"
-}
+    "title": "GTV (V+)",
+    "url": "https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
+    "thumbnail": "https://hometv.pw/logo/lokal/gtv.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://visionplus.id"
+    },
+    "drmLicenseUrl": "https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz"
+  }
 ]
