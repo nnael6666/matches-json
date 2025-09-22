@@ -1,39 +1,41 @@
 {
   "popupImage": "https://i.imgur.com/XgTgDzd.jpeg",
-  "popupUrl": "",
+  "popupUrl": "https://zonasport.cyou/live/foot1/chunks.m3u8",
 
   "matches": [
     {
-    "title": "ARS v MC SkySport Premier League",
-    "url": "https://zonasport.cyou/live/foot1/chunks.m3u8",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "Arsenal",
-    "awayTeam": "Man City",
-    "score": "1 - 0",
-    "time": "22:30 WIB",
-    "dateTime": "2025-09-21T22:30:00+07:00",
-    "isLive": true,
-    "homeLogo": "https://iili.io/KYfBOGV.png",
-    "awayLogo": "https://iili.io/KYfCRcP.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://zonasport.cyou"}
-  },
+      "title": "Arsenal v Man City (SkySport Premier League)",
+      "url": "https://zonasport.cyou/live/foot1/chunks.m3u8",
+      "group": "https://iili.io/K7ZL54S.png",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Man City",
+      "score": "1 - 1",
+      "time": "22:30 WIB",
+      "dateTime": "2025-09-21T22:30:00+07:00",
+      "isLive": true,
+      "homeLogo": "https://iili.io/KYfBOGV.png",
+      "awayLogo": "https://iili.io/KYfCRcP.png",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://zonasport.cyou"
+      }
+    },
     {
-    "title": "ARS v MC BEINSPORT 1 FHD",
-    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysprem",
-    "group": "https://iili.io/K7ZL54S.png",
-    "homeTeam": "not",
-    "awayTeam": "found",
-    "score": "1 - 0",
-    "time": "22:30 WIB",
-    "dateTime": "2025-09-21T22:30:00+07:00",
-    "isLive": true,
-    "homeLogo": "https://iili.io/KYfBOGV.png",
-    "awayLogo": "https://iili.io/KYfCRcP.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://crichdplayer.com"}
-  }
-]
+      "title": "Arsenal v Man City (BeinSport 1 FHD)",
+      "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysprem",
+      "group": "https://iili.io/K7ZL54S.png",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Man City",
+      "score": "1 - 1",
+      "time": "22:30 WIB",
+      "dateTime": "2025-09-21T22:30:00+07:00",
+      "isLive": true,
+      "homeLogo": "https://iili.io/KYfBOGV.png",
+      "awayLogo": "https://iili.io/KYfCRcP.png",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://crichdplayer.com"
+      }
+    }
+  ]
 }
