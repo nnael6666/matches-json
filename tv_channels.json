@@ -4,7 +4,8 @@
   "url": "https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd",
   "thumbnail": "https://iili.io/JV3x6cG.png",
   "headers": {
-    "User-Agent": "ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1"
+    "User-Agent": "ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",
+    "Referer": "https://atemeshield1-voe.sysln.id"
   },
   "drmKey": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"f4c0c13bb1b84004b32ae4e9042d1571\",\"kid\":\"a898c1af1a76498788cb616d39e551a6\"}],\"type\":\"temporary\"}"
 },
