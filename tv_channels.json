@@ -45,9 +45,11 @@
     }
   },
   {
-    "title": "NBA TV",
+    "title": "NBA TV 1",
     "url": "  https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium404/mono.m3u8",
-    "thumbnail": "https://iili.io/KROAIOx.png"
+    "thumbnail": "https://iili.io/KROAIOx.png",
+     "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"}
   },
   {
     "title": "MNC TV",
