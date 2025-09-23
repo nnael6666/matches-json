@@ -1,15 +1,5 @@
 [
   {
-  "title": "Bismillah",
-  "url": "https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd",
-  "thumbnail": "https://iili.io/JV3x6cG.png",
-  "headers": {
-    "User-Agent": "ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",
-    "Referer": "https://atemeshield1-voe.sysln.id"
-  },
-  "drmKey": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"f4c0c13bb1b84004b32ae4e9042d1571\",\"kid\":\"a898c1af1a76498788cb616d39e551a6\"}],\"type\":\"temporary\"}"
-},
-  {
     "title": "SCTV",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
     "thumbnail": "https://iili.io/KROAIOx.png",
@@ -34,6 +24,24 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
       "Referer": "https://www.dens.tv"
+    }
+  },
+  {
+    "title": "MNC TV 1",
+    "url": "https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+      "Referer": "https://www.visionplus.id/ "
+    }
+  },
+  {
+    "title": "MNC TV 2",
+    "url": "https://allcutv.rctiplus.id/mnctv2023.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+      "Referer": "https://www.visionplus.id/ "
     }
   },
   {
