@@ -1,15 +1,15 @@
 {
   "popupImage": "https://i.imgur.com/6qtdO5B.jpeg",
-  "popupUrl": "https://example.com",
+  "popupUrl": "https://live5.k8v4dh4.app/live/78905744.m3u8",
 
   "matches": [
     {
-      "title": "Liverpool v Southampton",
+      "title": "Liverpool v Southampton (1)",
       "url": "https://example.com",
       "group": "https://i.imgur.com/keO4xCX.png",
       "homeTeam": "Liverpool",
       "awayTeam": "Southampton",
-      "score": "0 - 0",
+      "score": "4 - 0",
       "status": "UPCOMING",
       "time": "02:00 WIB",
       "dateTime": "2025-09-24T02:00:00+07:00",
@@ -22,7 +22,7 @@
       }
     },
   {
-    "title": "ENG LC Liverpool vs Southampton (1)",
+    "title": "ENG LC Liverpool vs Southampton (2)",
     "url": "https://live5.k8v4dh4.app/live/78905744.m3u8",
     "group": "https://i.imgur.com/keO4xCX.png",
     "homeTeam": "Liverpool",
@@ -39,7 +39,7 @@
     }
   },
   {
-    "title": "ENG LC Liverpool vs Southampton (2)",
+    "title": "Liverpool vs Southampton (3)",
     "url": "https://live5.k8v4dh4.app/live/97312754.m3u8",
     "homeTeam": "Liverpool",
     "awayTeam": "Southampton",
