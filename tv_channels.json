@@ -9,6 +9,15 @@
     }
   },
   {
+    "title": "ANTV",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+      "Referer": "https://www.dens.tv"
+    }
+  },
+  {
     "title": "TransTV",
     "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8",
     "thumbnail": "https://iili.io/KROAIOx.png"
@@ -35,26 +44,5 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"
     }
-  },
-  {
-    "title": "GTV (V+)",
-    "url": "https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
-    "thumbnail": "https://hometv.pw/logo/lokal/gtv.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://visionplus.id"
-    },
-    "drmLicenseUrl": "https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz"
-  },
-  {
-  "title": "ANTV",
-  "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd",
-  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png",
-  "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-    "Referer": "https://www.visionplus.id/"
-  },
-  "drmLicenseUrl": "clearkey://",
-  "drmKey": "251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f"
-}
+  }
 ]
