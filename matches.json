@@ -10,6 +10,7 @@
       "homeTeam": "Liverpool",
       "awayTeam": "Southampton",
       "score": "0 - 0",
+      "status": "UPCOMING",
       "time": "02:00 WIB",
       "dateTime": "2025-09-24T02:00:00+07:00",
       "isLive": false,
