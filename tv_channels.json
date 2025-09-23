@@ -36,22 +36,6 @@
     }
   },
   {
-    "title": "Paramount Network",
-    "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
-    "thumbnail": "https://iili.io/KROAIOx.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-      "Referer": "https://cdn4.skygo.mn/"
-    }
-  },
-  {
-    "title": "NBA TV 1",
-    "url": "  https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium404/mono.m3u8",
-    "thumbnail": "https://iili.io/KROAIOx.png",
-     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"}
-  },
-  {
     "title": "MNC TV",
     "url": "https://allcutv.rctiplus.id/mnctv2023.m3u8",
     "thumbnail": "https://iili.io/KROAIOx.png",
@@ -133,4 +117,32 @@
       "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"
     }
   }
+  {
+    "title": " National Geographic USA",
+    "url": "https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium328/mono.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png"
+  },
+  {
+    "title": "Nat Geo Wild USA",
+    "url": "https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium745/mono.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png"
+  },
+  {
+    "title": "Thrill",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+      "Referer": "https://www.dens.tv"
+    }
+  },
+  {
+    "title": "TvNMovies",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD",
+    "thumbnail": "https://iili.io/KROAIOx.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+      "Referer": "https://www.dens.tv"
+    }
+  },
 ]
