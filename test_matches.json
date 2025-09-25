@@ -11,7 +11,7 @@
   {
     "title": "01",
     "url": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/AppleTVLogo.png",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://www.yalla1shoot.com/"
@@ -20,7 +20,16 @@
   {
     "title": "02",
     "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/chunks.m3u8",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/AppleTVLogo.png",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.yalla1shoot.com/"
+    }
+  },
+  {
+    "title": "03",
+    "url": "https://z.yalla1shoot.xyz:6444/th3/index.m3u8",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://www.yalla1shoot.com/"
