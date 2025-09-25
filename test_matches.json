@@ -70,5 +70,14 @@
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://www.shoot-yalla.me/"
     }
+  },
+  {
+    "title": "Bein Sport 1 HD",
+    "url": "https://a3.kora-plus.pro/watch/qN1afTffCVun4WnDAz03sg/1758839978/1758840232/1/b1_1.m3u8",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.shoot-yalla.me/"
+    }
   }
 ]
