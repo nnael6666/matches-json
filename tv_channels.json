@@ -1,10 +1,5 @@
 [
   {
-    "title": "Nobody 2",
-    "url": "https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNvY0d-dh0BHQA8BREdJkNzezdGLiYA/34/480.m3u8",
-    "thumbnail": "https://iili.io/KcfEaBj.jpg"
-  },
-  {
     "title": "SCTV",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
     "thumbnail": "https://iili.io/KROAIOx.png",
@@ -156,6 +151,15 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
       "Referer": "http://extraott.com"
+    }
+  }
+  {
+    "title": "Apple TV",
+    "url": "https://taktikora.live/hls/Live1/index.m3u8",
+    "thumbnail": "https://iili.io/KROAIOx.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+      "Referer": "https://www.yalla1shoot.com/"
     }
   }
 ]
