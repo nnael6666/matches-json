@@ -79,5 +79,32 @@
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://www.shoot-yalla.me/"
     }
+  },
+  {
+    "title": "Bein Sport 9",
+    "url": "https://y.yalla1shoot.xyz:6444/bein9/index.m3u8",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.yalla1shoot.com/"
+    }
+  },
+  {
+    "title": "Bein Sport 1",
+    "url": "https://z.yalla1shoot.xyz:6444/bein9/index.m3u8",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.yalla1shoot.com/"
+    }
+  },
+  {
+    "title": "Bein Sport 2",
+    "url": "https://y.yalla1shoot.xyz:6444/bein2/index.m3u8",
+    "thumbnail": "https://en.wikipedia.org/wiki/404_Media#/media/File:404_Media_logo_dark.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.yalla1shoot.com/"
+    }
   }
 ]
