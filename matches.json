@@ -1,5 +1,5 @@
 {
-  "popupImage": "https://i.imgur.com/6qtdO5B.jpeg",
+  "popupImage": "",
   "popupUrl": "https://example.com",
 
   "matches": [
@@ -21,57 +21,5 @@
       "Referer": "https://www.instreamtv.xyz/"
     }
   },
-    {
-    "title": "DWU VS PSBY (2)",
-    "url": "https://live.golivenow71.com/e6a095c8c3e91222cc9cef7e7a5f9c36/1758930930235/vg4b678/vg4b678@720p.m3u8",
-    "group": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BRI_Super_League_Indonesia.svg/250px-BRI_Super_League_Indonesia.svg.png",
-    "homeTeam": "Dewa United",
-    "awayTeam": "Persebaya",
-    "score": "0 - 0",
-    "time": "19:00 WIB",
-    "dateTime": "2025-09-26T19:00:00+07:00",
-    "isLive": true,
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dewa_United_Esports.png/250px-Dewa_United_Esports.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/44px-Persebaya_logo.svg.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://xlz.plcdn.xyz/"
-    }
-  },
-    {
-    "title": "DWU VS PSBY (3)",
-    "url": "https://t2nt1-cf.boblcfwudz421.com/auth%3D96063a310fdad6e1d7baeaaab77ba2016b98071270fd564f989cc262a5a29a77b67a95cc84f2e9fbf4cb6daf660ad2a99017500caaf52d36f2626c285602e9863719c7a7630f6f67cb8d454823f47d104df47136c609694c431bd246ac211386c2e85f0831e41138bce68d9213d3915808f6b662213f134bd664d85f7cae42fda2762b2c786ad28293cd6b572ae4d1b119b6c1df73fedcb726c0d9d786f1c5c05537e295f0a7af30c8e6003f44be2a80%26cid%3D2NMAPAR7z92UaYEoQb7Ym250926%26_v%3D2%26_r%3Di-CBiJ%26_vis%3Ddbc4bd7473f8b92b9e928f9255b7352905f99688c85b72348d10432577c0cc54%26_vvs%3D40afd6a7443beabbb840378dacfccc498bef2b856ad88a2d9eba6bf6ac548345/transcode/c372946_480p.m3u8",
-    "group": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BRI_Super_League_Indonesia.svg/250px-BRI_Super_League_Indonesia.svg.png",
-    "homeTeam": "Dewa United",
-    "awayTeam": "Persebaya",
-    "score": "0 - 0",
-    "time": "19:00 WIB",
-    "dateTime": "2025-09-26T19:00:00+07:00",
-    "isLive": true,
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dewa_United_Esports.png/250px-Dewa_United_Esports.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/44px-Persebaya_logo.svg.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
-      "Referer": "https://ppdd03.playerktidfintkd.shop/"
-    }
-  },
-    {
-    "title": "GIRONA VS ESPANYOL",
-    "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
-    "group": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png",
-    "homeTeam": "Girona",
-    "awayTeam": "Espanyol",
-    "score": "0 - 0",
-    "time": "19:00 WIB",
-    "dateTime": "2025-09-26T19:00:00+07:00",
-    "isLive": true,
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dewa_United_Esports.png/250px-Dewa_United_Esports.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/44px-Persebaya_logo.svg.png",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36"
-    },
-    "drmLicenseUrl": "clearkey://",
-    "drmKey": "{\"3ae6a430c1b8420ea280e317143d8d3a\":\"142473ee925db0db0083c74a178c8298\"}"
-  }
   ]
 }
