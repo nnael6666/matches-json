@@ -3,5 +3,39 @@
   "popupUrl": "https://example.com",
 
   "matches": [
+    {
+    "title": "Dewa United v Persebaya (1)",
+    "url": "https://play-cdn.sportsbal.com/sport/202_3949781_1.m3u8?hls_ctx=7566f2se&sign=G61OIwHuG0qgtgMakNV3hkdtWnj-Bg-5uj0pVEjzf_3R2tC4zlZHuwPpkg3WlYy7nD46Puov6D6zstthHcc0ZFJNSjdcM8CsveUwclHvjFe__0GSyOEpv30Tk6vb6XyKtjnaqlVlQ3qwHV7X5tL7ErDlRmJdolNsiBEzEW7usdLEIOatpGqomPXctIYQTF0i1WpTnDTk8-fVKbams06EbrxxjRkMg4N064SkBsSoWUMAP1XbFv1ot180iCwMzPjr2yDYjGIYzwky3DNevWepyM3AfSa1wRipZPRPG2T1oYNqDjZdTD2dzCnpMm56-25NjsoXlfBGsWRtRzO_hmroyQ&timestamp=1758888257707",
+    "group": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BRI_Super_League_Indonesia.svg/250px-BRI_Super_League_Indonesia.svg.png",
+    "homeTeam": "Dewa United",
+    "awayTeam": "Persebaya",
+    "score": "2 - 1",
+    "time": "19:00 WIB",
+    "dateTime": "2025-09-26T19:00:00+07:00",
+    "isLive": true,
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dewa_United_Esports.png/250px-Dewa_United_Esports.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/195px-Persebaya_logo.svg.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.instreamtv.xyz/"
+    }
+  },
+    {
+    "title": "Dewa United v Persebaya (2)",
+    "url": "https://live.golivenow71.com/e6a095c8c3e91222cc9cef7e7a5f9c36/1758930930235/vg4b678/vg4b678@720p.m3u8",
+    "group": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BRI_Super_League_Indonesia.svg/250px-BRI_Super_League_Indonesia.svg.png",
+    "homeTeam": "Dewa United",
+    "awayTeam": "Persebaya",
+    "score": "2 - 1",
+    "time": "19:00 WIB",
+    "dateTime": "2025-09-26T19:00:00+07:00",
+    "isLive": true,
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dewa_United_Esports.png/250px-Dewa_United_Esports.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/195px-Persebaya_logo.svg.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://xlz.plcdn.xyz/"
+    }
+  }
   ]
 }
