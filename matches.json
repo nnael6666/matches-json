@@ -56,6 +56,25 @@
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://ppdd03.playerktidfintkd.shop/"
     }
+  },
+    {
+    "title": "GIRONA VS ESPANYOL",
+    "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
+    "group": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png",
+    "homeTeam": "Girona",
+    "awayTeam": "Espanyol",
+    "score": "0 - 0",
+    "status": "UPCOMING",
+    "time": "02:00 WIB",
+    "dateTime": "2025-09-27T02:00:00+07:00",
+    "isLive": false,
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dewa_United_Esports.png/250px-Dewa_United_Esports.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/44px-Persebaya_logo.svg.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36"
+    }
+    "drmLicenseUrl": "clearkey://",
+    "drmKey": "{\"3ae6a430c1b8420ea280e317143d8d3a\":\"142473ee925db0db0083c74a178c8298\"}"
   }
   ]
 }
