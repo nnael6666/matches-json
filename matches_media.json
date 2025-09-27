@@ -8,7 +8,7 @@
         "Referer": "https://demo.zplayer.xyz/"
     },
     "clearKey": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135"
-}
+},
   {
     "title": "Demo Widevine (Fake)",
     "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd",
