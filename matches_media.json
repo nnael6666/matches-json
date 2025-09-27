@@ -4,7 +4,7 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
     "thumbnail": "https://iili.io/FtSr5Mb.jpg",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F)",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://demo.zplayer.xyz/"
     },
     "drm": {
@@ -24,7 +24,7 @@
     "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Play_button_icon.svg",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F)"
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36"
     },
     "drm": {
       "type": "widevine",
@@ -32,7 +32,7 @@
     }
   },
   {
-    "title": "Trans",
+    "title": "Trans7",
     "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/53/Livestream_logo-rgb_standard.png"
   },
@@ -41,7 +41,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F)"
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36"
     }
   }
 ]
