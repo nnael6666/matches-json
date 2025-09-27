@@ -1,24 +1,14 @@
 [
   {
-    "title": "Premier League MPD (ClearKey)",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
-    "thumbnail": "https://iili.io/FtSr5Mb.jpg",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
-      "Referer": "https://demo.zplayer.xyz/"
-    },
-    "drm": {
-      "type": "clearkey",
-      "session_type": "temporary",
-      "keys": [
-        {
-          "kty": "oct",
-          "kid": "Pc--wOcUaSi6pVIRQvLLYw",
-          "k": "vIX3T4Fd6eWiHdbe-qBRNQ"
-        }
-      ]
-    }
+  "title": "Premier League MPD (ClearKey)",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+  "thumbnail": "https://iili.io/FtSr5Mb.jpg",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+    "Referer": "https://demo.zplayer.xyz/"
   },
+  "clearKey": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135"
+},
   {
     "title": "Demo Widevine (Fake)",
     "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd",
