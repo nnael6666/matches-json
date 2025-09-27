@@ -20,9 +20,29 @@
     }
   },
   {
+    "title": "Demo Widevine (Fake)",
+    "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Play_button_icon.svg",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F)"
+    },
+    "drm": {
+      "type": "widevine",
+      "license_url": "https://cwip-shaka-proxy.appspot.com/no_auth"
+    }
+  },
+  {
     "title": "Test HLS (No DRM)",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/53/Livestream_logo-rgb_standard.png",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F)"
+    }
+  },
+  {
+    "title": "Sample MP4",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F)"
     }
