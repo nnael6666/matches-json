@@ -33,5 +33,14 @@
       "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
       "Referer": "https://news.vip-gx.online/"
     }
+  },
+  {
+    "title": "Bein Sport 2",
+    "url": "https://kciwjj.5606087801.art:8443/hls/e8a2ym.m3u8?s=yEc1wvqbBjeda3G2aZFTWg&e=1759099450",
+    "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://news.vip-gx.online/"
+    }
   }
 ]
